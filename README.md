@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Armin 👋🏻👨🏼‍💻
+
+I'm a Cybersecurity researcher and a software engineer who is passionate about making open-source softwares and creating new technologies.
+
+## Finding more about me 🌎:
+- Website: <a href="https://www.rminz.github.io">arminziaie.tech</a> 💻
+- Sharing updates on: <a href="https://www.linkedin.com/in/arminziaietabari/">LinkedIn</a> 👨🏼‍🏫
 
 <!--
 **rminz/rminz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
