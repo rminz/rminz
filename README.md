@@ -6,6 +6,7 @@ I'm a Cybersecurity researcher and a software engineer who is passionate about m
 - Website: <a href="https://rminz.github.io">arminziaie.tech</a> 💻
 - Sharing updates on: <a href="https://www.linkedin.com/in/arminziaietabari/">LinkedIn</a> 👨🏼‍🏫
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rminz.rminz)
 <!--
 **rminz/rminz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
