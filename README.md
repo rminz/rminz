@@ -3,7 +3,7 @@
 I'm a Cybersecurity researcher and a software engineer who is passionate about making open-source softwares and creating new technologies.
 
 ## Find more about me 🌎
-- Website: <a href="https://rminz.github.io">arminziaie.tech</a> 💻
+- Website: <a href="https://rminz.github.io">arminziaietabari.com</a> 💻
 - Sharing updates on: <a href="https://www.linkedin.com/in/arminziaietabari/">LinkedIn</a> 👨🏼‍🏫
 
 ![visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frminz%2Frminz)
