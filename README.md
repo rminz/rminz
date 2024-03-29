@@ -116,8 +116,7 @@
 <img src="/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rminz&label=Profile%20views&color=0e75b6&style=flat" alt="rminz" /> </p>
-## Find more about me 🌎
-- Website: <a href="https://rminz.github.io">arminziaietabari.com</a> 💻
+<b>Find more about me 🌎 Website:</b> <a href="https://rminz.github.io">arminziaietabari.com</a> 💻
 
 ###
 <!-- <h1 align="center">Hi 👋, I'm Armin</h1>
