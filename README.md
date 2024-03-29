@@ -118,7 +118,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rminz/rminz/output/snake.svg" alt="Snake animation" />
+<img src="/output/snake.svg" alt="Snake animation" />
 
 ###
 <!-- <h1 align="center">Hi 👋, I'm Armin</h1>
