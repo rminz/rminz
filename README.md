@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="/output/image-1.jpg"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/rminz/rminz/master/output/Image-1.jpg"  />
 
 ###
 
