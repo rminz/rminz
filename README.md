@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋, I'm Armin</h2>
+<h2 align="left">Hi 👋, I'm <b>Armin</b></h2>
 
 ###
 
-<p align="left">I'm a CyberSecurity researcher and AI engineer with a deep passion for open-source software and democratizing AI. I believe in the power of technology to transform lives and am dedicated to making advanced AI accessible to everyone. Through my work, I strive to bridge the gap between cutting-edge innovation and practical application, ensuring that the benefits of technology are shared widely and equitably.</p>
+<p align="left">a CyberSecurity researcher and AI engineer with a deep passion for open-source software and democratizing AI. I believe in the power of technology to transform lives and am dedicated to making advanced AI accessible to everyone. Through my work, I strive to bridge the gap between cutting-edge innovation and practical application, ensuring that the benefits of technology are shared widely and equitably.</p>
 
 ###
 
